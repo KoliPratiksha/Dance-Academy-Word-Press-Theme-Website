@@ -1,0 +1,48 @@
+#hero{
+    background-color: pink;
+    background-image: url(./3616.jpg);
+    
+}
+#hero img{
+   padding-top: 5rem;
+   padding-bottom: 5rem;
+
+}
+ h1{
+    color: rgb(252, 61, 179);
+    font-size: xx-large;
+    
+}
+#shop h1{
+    padding-top: 25rem;
+    color: rgb(252, 61, 179);;
+    
+}
+#shop .image img{
+    width: 30rem;
+    height: 90vh;
+}
+#shop .images{
+    padding-top: 8rem;
+}
+h6:hover{
+   color: rgb(247, 152, 168);
+}
+#page .card:hover{
+	border: none;
+	transition: 20s;
+}
+#feature  img{
+    padding-top: 2rem;
+    padding-left: 5rem;
+    width: 10rem;
+    height: 15vh;
+}
+#feature .card{
+    height: 40vh;
+    margin-bottom: 5rem;
+}
+#footer{
+    background-color: black;
+    height: 10vh;
+}
