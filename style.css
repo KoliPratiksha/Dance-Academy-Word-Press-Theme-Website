@@ -2,6 +2,7 @@
     background-color: pink;
     background-image: url(./3616.jpg);
     
+    
 }
 #hero img{
    padding-top: 5rem;
@@ -45,4 +46,9 @@ h6:hover{
 #footer{
     background-color: black;
     height: 10vh;
+}
+@media screen and (max-width:768px) {
+    .navbar .right a{
+        display: none;
+    }
 }
