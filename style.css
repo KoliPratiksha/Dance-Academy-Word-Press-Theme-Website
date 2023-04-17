@@ -51,4 +51,14 @@ h6:hover{
     .navbar .right a{
         display: none;
     }
+    .text5{
+        display: none;
+    }
+    .image1{
+        margin-top: 5rem;
+    }
+    .image2{
+        padding-bottom: 5rem;
+        
+    }
 }
